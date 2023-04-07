@@ -1,7 +1,6 @@
 ## CloudFlex Alliance
 
-
-As a not-for-profit industry body, the CloudFlex Alliance is dedicated to advocating for open and best-of-breed enterprise technology ecosystems. The alliance serves as a trusted source of knowledge and expertise, providing guidance, education, and support to the industry as a whole as organizations transition from legacy infrastructure to composable architectures.
+The CloudFlex Alliance is a not-for-profit industry body dedicated to advocating for open and best-of-breed enterprise cloud technology ecosystems. As a trusted source of knowledge and expertise, the alliance provides valuable guidance, education, and support to the industry as a whole, with a special focus on organizations transitioning from legacy infrastructure or early cloud implementations to more advanced, financially optimized cloud architectures that leverage the latest benefits of AI. 
 
 One of the key objectives of the CloudFlex Alliance is to establish an industry tech standard that defines the modern technology landscape. This standard outlines the best practices, principles, and guidelines for building and operating composable architectures with newer serverless, FinOps, and AI capabilities in addition to legacy needs like microservices, api and headless, . It serves as a reference framework that helps organizations understand the prerequisites and requirements to achieve the desired level of technological excellence.
 
