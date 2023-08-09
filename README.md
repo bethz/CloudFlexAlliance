@@ -1,4 +1,4 @@
-## CloudFlex Alliance
+# CloudFlex Alliance
 
 The CloudFlex Alliance is a not-for-profit industry body dedicated to advocating for open and best-of-breed enterprise cloud technology ecosystems. As a trusted source of knowledge and expertise, the alliance provides valuable guidance, education, and support to the industry as a whole, with a special focus on organizations transitioning from legacy infrastructure or early cloud implementations to more advanced, financially optimized cloud architectures that leverage the latest benefits of AI. 
 
@@ -13,3 +13,11 @@ Furthermore, the CloudFlex Alliance recognizes the importance of partner enablem
 The CloudFlex Alliance also places a strong emphasis on supporting legacy needs while embracing newer technologies. The alliance recognizes that organizations may have existing microservices, API, and headless architectures that need to coexist with newer serverless, FinOps, and AI capabilities. The industry tech standard established by the CloudFlex Alliance provides guidance on how to effectively integrate and operate these diverse technologies in a composable manner, enabling organizations to optimize their technology stack and achieve seamless interoperability.
 
 In summary, the CloudFlex Alliance is dedicated to advocating for open and best-of-breed enterprise cloud technology ecosystems, with a focus on composable architectures that leverage the latest benefits of AI, serverless computing, and FinOps. The alliance promotes partner enablement and collaboration to create a multiplier effect within the Azure ecosystem, and provides guidance, education, and support to organizations transitioning from legacy infrastructure to advanced cloud architectures. By establishing an industry tech standard and fostering interoperability, the CloudFlex Alliance aims to drive excellence and innovation across the industry.
+
+## Business Benefits
+
+- **Commercial** Ease in overall procurement and accounting by accessing the service through Azure's marketplace eco-system.  Licensing is consumption based, like akin to any other Azure service, to scale with your business in a shared success model across vendors.
+- **Access** Service is available in multiple Azure regions with enterprise-grade support SLAs.  Additionally, to accelerate innovation, the service supports self-enablement through trial or sandbox access to scale organizational adoption of technology.
+- **Integration** Service follows API-first principles of modern SaaS software to support real-time orchestration and automation of business use cases.  Additionally, the data within the platform is accessible to Azure-based storage such that businesses can combine insights and reports across multiple services' data, all operating under the same principles.
+- **AI Composability** Service is pre-integrated to Azure AI to allow customers to adopt an AI-first co-pilot innovations which bridge multiple CloudFlex services at once to unlock the combined power of current and future versions of Generative AI.
+
